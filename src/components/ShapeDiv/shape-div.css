@@ -1,0 +1,24 @@
+
+#shapeDiv {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+.square {
+    border-radius: none;
+}
+
+.btn-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

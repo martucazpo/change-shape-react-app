@@ -1,0 +1,16 @@
+.change-shape-btn{
+    background-color: goldenrod;
+    font-size: 1.5em;
+    outline: none;
+    padding: 5px 10px;
+    color: white;
+    border: none;
+    border-radius: .25em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.change-shape-btn:hover {
+    background-color: teal;
+}
